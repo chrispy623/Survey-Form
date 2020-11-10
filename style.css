@@ -1,0 +1,58 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  main {
+    opacity: 0.9;
+  }
+  
+  #title {
+    margin: auto;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    font-family: verdana;
+    font-weight: normal;
+    background-color: gray;
+    max-width: 750px;
+    min-width: 600px;
+    opacity: 0.9;
+  }
+  
+  #description {
+    margin: auto;
+    background-color: gray;
+    max-width: 750px;
+    min-width: 600px;
+    text-align: center;
+    font-style: italic;
+    font-family: verdana;
+    color: white;
+    opacity: 0.9;
+  }
+  
+  #survey-form  {
+    margin: 0px auto;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 30px;
+    max-width: 750px;
+    min-width: 600px;
+  }
+  
+  #name-label {
+    display: block;
+  }
+  
+  #email-label {
+    display: block;
+  }
+  
+  #number-label {
+    display: block;
+  }
+  
+  #submit {
+    margin-left: 375px;
+  }
